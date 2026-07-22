@@ -1,5 +1,3 @@
-// companyName, headOffice, established, active, 
-// topFlavors(name, calories, type, ingredients, image)
 {
     "companyName": "I-Scream Company Inc.",
     "headOffice": "North Pole",
@@ -10,6 +8,12 @@
         "calories": 200,
         "type": "Ice Cream",
         "ingredients": ["Milk", "Sugar", "Cocoa Powder", "Mint Extract"],
-        "image": "https://example.com/chocolate_mint.jpg"
+        "image": "https://biko-alt.github.io/26S-JavaScript-01-Week11/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 240,
+        "type": "Milkshake-type Ice Cream",
+        "ingredients": ["Milk", "Sugar", "Peach Puree", "Mango Puree"],
+        "image": "https://biko-alt.github.io/26S-JavaScript-01-Week11/images/peach-mango.svg"
     }]
 }
