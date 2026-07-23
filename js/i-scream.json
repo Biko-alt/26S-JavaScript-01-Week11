@@ -6,14 +6,14 @@
     "topFlavours": [{
         "name": "Chocolate Mint",
         "calories": 200,
-        "type": "Ice Cream",
-        "ingredients": ["Milk", "Sugar", "Cocoa Powder", "Mint Extract"],
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
         "image": "https://biko-alt.github.io/26S-JavaScript-01-Week11/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 240,
-        "type": "Milkshake-type Ice Cream",
-        "ingredients": ["Milk", "Sugar", "Peach Puree", "Mango Puree"],
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
         "image": "https://biko-alt.github.io/26S-JavaScript-01-Week11/images/peach-mango.svg"
     }]
 }
